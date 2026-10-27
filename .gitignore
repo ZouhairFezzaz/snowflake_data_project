@@ -1,0 +1,15 @@
+venv/
+dbt_venv/
+**/venv/
+**/dbt_venv/
+target/
+**/target/
+dbt_packages/
+**/dbt_packages/
+logs/
+**/logs/
+profiles.yml
+**/profiles.yml
+.env
+**/.env
+__pycache__/
